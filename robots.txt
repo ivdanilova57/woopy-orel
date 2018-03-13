@@ -1,0 +1,3 @@
+User-agent: *
+Host: http://woopyorel.ru
+Sitemap: http://woopyorel.ru/sitemap.xml
